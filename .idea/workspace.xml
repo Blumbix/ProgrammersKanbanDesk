@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9cf3b73-625f-4509-a4b2-50399e3cea0c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TvbssrCfz2ADcC8yKX7Jxstpb7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.11.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spec" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Blumbix\WebstormProjects\4_jwt\src\middlewares" />
+      <recent name="C:\Users\Blumbix\WebstormProjects\4_jwt\src\api\stories" />
+      <recent name="C:\Users\Blumbix\WebstormProjects\4_jwt\src\api" />
+      <recent name="F:\DYDAKTYKA\Inżynieria Internetu\2019\Wykłady\4_jwt\src\api\auth" />
+      <recent name="F:\DYDAKTYKA\Inżynieria Internetu\2019\Wykłady\4_jwt\node_modules\bcrypt\lib\binding" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Blumbix\WebstormProjects\4_jwt\src" />
+      <recent name="F:\DYDAKTYKA\Inżynieria Internetu\2019\Wykłady\4_jwt" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Mocha.testing">
+    <configuration name="Nodemon" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" port="9229" restartOnDisconnect="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/app.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="testing" type="mocha-javascript-test-runner">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$/src</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs>
+        <env name="NODE_ENV" value="test" />
+      </envs>
+      <ui>bdd</ui>
+      <extra-mocha-options>--timeout 15000 --exit</extra-mocha-options>
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$/spec</test-directory>
+      <recursive>false</recursive>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Node.js/Chrome.Nodemon" />
+      <item itemvalue="Mocha.testing" />
+      <item itemvalue="Node.js.app.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9cf3b73-625f-4509-a4b2-50399e3cea0c" name="Default Changelist" comment="" />
+      <created>1574343725833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574343725833</updated>
+      <workItem from="1574343727064" duration="8880000" />
+      <workItem from="1578484255939" duration="407000" />
+      <workItem from="1578484761998" duration="398000" />
+      <workItem from="1578485185903" duration="21505000" />
+      <workItem from="1578562329071" duration="6619000" />
+      <workItem from="1578577363130" duration="71000" />
+      <workItem from="1578577437233" duration="12000" />
+      <workItem from="1578577493754" duration="152000" />
+      <workItem from="1578577648263" duration="174000" />
+      <workItem from="1578577825476" duration="222000" />
+      <workItem from="1578578069381" duration="142000" />
+      <workItem from="1579010698585" duration="1155000" />
+      <workItem from="1579086241693" duration="6393000" />
+      <workItem from="1579106456167" duration="2675000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1574406294506">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="414" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160/-1920.0.1920.1160/1920.0.1920.1040@0.0.1920.1160" timestamp="1574406294506" />
+    <state x="734" y="382" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1574343966953">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="734" y="382" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1160/-1920.0.1920.1160/1920.0.1920.1040@0.0.1920.1160" timestamp="1574343966953" />
+    <state width="1899" height="396" key="GridCell.Tab.0.bottom" timestamp="1574407684823">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1899" height="396" key="GridCell.Tab.0.bottom/0.0.1920.1160/-1920.0.1920.1160/1920.0.1920.1040@0.0.1920.1160" timestamp="1574407684823" />
+    <state width="1899" height="396" key="GridCell.Tab.0.center" timestamp="1574407684823">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1899" height="396" key="GridCell.Tab.0.center/0.0.1920.1160/-1920.0.1920.1160/1920.0.1920.1040@0.0.1920.1160" timestamp="1574407684823" />
+    <state width="1899" height="396" key="GridCell.Tab.0.left" timestamp="1574407684823">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1899" height="396" key="GridCell.Tab.0.left/0.0.1920.1160/-1920.0.1920.1160/1920.0.1920.1040@0.0.1920.1160" timestamp="1574407684823" />
+    <state width="1899" height="396" key="GridCell.Tab.0.right" timestamp="1574407684823">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1899" height="396" key="GridCell.Tab.0.right/0.0.1920.1160/-1920.0.1920.1160/1920.0.1920.1040@0.0.1920.1160" timestamp="1574407684823" />
+    <state width="1899" height="396" key="GridCell.Tab.1.bottom" timestamp="1574407684824">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1899" height="396" key="GridCell.Tab.1.bottom/0.0.1920.1160/-1920.0.1920.1160/1920.0.1920.1040@0.0.1920.1160" timestamp="1574407684824" />
+    <state width="1899" height="396" key="GridCell.Tab.1.center" timestamp="1574407684823">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1899" height="396" key="GridCell.Tab.1.center/0.0.1920.1160/-1920.0.1920.1160/1920.0.1920.1040@0.0.1920.1160" timestamp="1574407684823" />
+    <state width="1899" height="396" key="GridCell.Tab.1.left" timestamp="1574407684823">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1899" height="396" key="GridCell.Tab.1.left/0.0.1920.1160/-1920.0.1920.1160/1920.0.1920.1040@0.0.1920.1160" timestamp="1574407684823" />
+    <state width="1899" height="396" key="GridCell.Tab.1.right" timestamp="1574407684824">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1899" height="396" key="GridCell.Tab.1.right/0.0.1920.1160/-1920.0.1920.1160/1920.0.1920.1040@0.0.1920.1160" timestamp="1574407684824" />
+    <state width="1899" height="396" key="GridCell.Tab.2.bottom" timestamp="1574407684824">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1899" height="396" key="GridCell.Tab.2.bottom/0.0.1920.1160/-1920.0.1920.1160/1920.0.1920.1040@0.0.1920.1160" timestamp="1574407684824" />
+    <state width="1899" height="396" key="GridCell.Tab.2.center" timestamp="1574407684824">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1899" height="396" key="GridCell.Tab.2.center/0.0.1920.1160/-1920.0.1920.1160/1920.0.1920.1040@0.0.1920.1160" timestamp="1574407684824" />
+    <state width="1899" height="396" key="GridCell.Tab.2.left" timestamp="1574407684824">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1899" height="396" key="GridCell.Tab.2.left/0.0.1920.1160/-1920.0.1920.1160/1920.0.1920.1040@0.0.1920.1160" timestamp="1574407684824" />
+    <state width="1899" height="396" key="GridCell.Tab.2.right" timestamp="1574407684824">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1899" height="396" key="GridCell.Tab.2.right/0.0.1920.1160/-1920.0.1920.1160/1920.0.1920.1040@0.0.1920.1160" timestamp="1574407684824" />
+  </component>
+</project>
